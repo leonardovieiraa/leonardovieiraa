@@ -14,4 +14,4 @@ A minha paixão pela programação cresce a cada dia.
 
 # Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1096651249627189278)](https://discord.com/users/1096651249627189278)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1096651249627189278)](https://discord.com/users/1225511013110120449)
